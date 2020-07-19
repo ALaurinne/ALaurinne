@@ -6,7 +6,7 @@
 
 :iphone: Intern at GeekBusiness Lab in mobile development with Flutter. 
 
-:star: I entered the software quality area, where I interned for 2 years.
+:star: I interned for 2 years in software quality area.
 
 :bird: I’m passionate about challenges! 
 
