@@ -1,13 +1,15 @@
-# Laurinne Oliveira
+## Laurinne Oliveira, but you can call me Lauri
 
-:computer: Computer Engineering student at UFBA
+💻  Computer Engineering student at UFBA
 
-:green_heart: CEO at InfoJr 2020, a junior company
+🎮  Intern at Afterverse in Mobile Game Development with Unity and C#. 
 
-:iphone: Intern at GeekBusiness Lab in mobile development with Flutter. 
+💚  CEO of InfoJr at 2020, a junior company, currently Board Member
 
-:star: I interned for 2 years in software quality area.
+💙  I interned for 7 months at GeekBusiness Lab in mobile development with Flutter.
 
-:bird: I’m passionate about challenges! 
+🕵️‍♀️  I interned for 2 years in Software Quality Area.
 
-:raising_hand: Some soft skills such as: communication, results orientation and leadership.
+🦔  I’m passionate about Challenges, Animals and Indie Music!
+
+🙋‍♀️  Some soft skills such as: Communication, Results Orientation, Teamwork and Leadership.
