@@ -2,7 +2,7 @@
 
 💻  Computer Engineering student at UFBA
 
-🎮  Intern at Afterverse in Mobile Game Development with Unity and C#. 
+🎮  Game Developer at Afterverse, with Unity and C#. 
 
 💚  CEO of InfoJr at 2020, a junior company, currently Board Member
 
