@@ -2,13 +2,13 @@
 
 💻  Computer Engineering student at UFBA
 
-🎮  Game Developer at Afterverse, with Unity and C#. 
-
-💚  CEO of InfoJr at 2020, a junior company, currently Board Member
+🎮  Game Developer at JogoGlobal, with Phaser and TypeScript. 
 
 💙  I interned for 7 months at GeekBusiness Lab in mobile development with Flutter.
 
 🕵️‍♀️  I interned for 2 years in Software Quality Area.
+
+💚  CEO of InfoJr at 2020, a junior company.
 
 🦔  I’m passionate about Challenges, Animals and Indie Music!
 
