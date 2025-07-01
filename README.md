@@ -1,12 +1,12 @@
 ## Laurinne Oliveira, but you can call me Lauri
 
-🎓  Computer Engineering student at UFBA
+🎓  Computer Scientist
 
 💻  Software Developer
 
 🎮  Passionate about coding new games in Unity
 
-💙  Enthusiastic about Flutter 
+💙  Enthusiastic about Flutter and AI
 
 🦔  I’m passionate about Challenges, Animals and Indie Games!
 
