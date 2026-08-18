@@ -1,13 +1,11 @@
 ## Laurinne Oliveira, but you can call me Lauri
 
-🎓  Computer Scientist
+🎓 Computer Scientist
 
-💻  Software Developer
+💻 Software Developer — Python, AI and C#
 
-🎮  Passionate about coding new games in Unity
+🎮 I build small games in Unity and play a lot of indie ones
 
-💙  Enthusiastic about Flutter and AI
+🧩 I like problems without an obvious answer
 
-🦔  I’m passionate about Challenges, Animals and Indie Games!
-
-🕵️‍♀️  Some soft skills such as: Communication, Results Orientation, Teamwork and Leadership.
+🦔 And I have a serious weakness for cute animals
